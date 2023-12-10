@@ -1,8 +1,11 @@
 #include "shell.h"
 /**
- *_prompt - program that receives user input commands
- *Return: 0
+ * main - void
+ *
+ * Return: always 0
  */
-
-void command(char *a)
+int main (void)
+{
+	return (0);
+}
 
