@@ -4,11 +4,11 @@
  *
  * Return: always 0
  */
-int main (void)
+int main(void)
 {
 	int i = 5;
 	int j = 6;
-	
+
 	if (i == 0, i < j, i++)
 		printf("my betty is good %d\n", i);
 	else
