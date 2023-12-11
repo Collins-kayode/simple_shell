@@ -1,9 +1,12 @@
 #include "shell.h"
+
 /**
  * main - Entry point
  *
  * Return: always 0
  */
+
+/* .....HEAD:prompt.c....... */
 int main(void)
 {
 	int i = 5;
@@ -17,4 +20,3 @@ int main(void)
 	}
 	return (0);
 }
-
