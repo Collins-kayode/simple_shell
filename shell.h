@@ -7,6 +7,7 @@
 #include <string.h>
 
 void prompt(char *a);
+int _prompt(argv, *argc);
 
 
 
