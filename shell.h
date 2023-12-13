@@ -6,9 +6,9 @@
 #include <stdio.h>
 #include <string.h>
 
-void prompt(char *a);
-int _prompt(argv, *argc);
-
+void exec_command(char *command);
+void _prompt(void);
+int main(void);
 
 
 
