@@ -9,14 +9,7 @@
 /* .....HEAD:prompt.c....... */
 int main(void)
 {
-	int i = 5;
-	int j = 6;
-
-	if (i == 0, i < j, i++)
-		printf("my betty is good %d\n", i);
-	else
-	{
-		printf("Am not good betty %d\n", i);
-	}
+	printf("HELLO,  THIS IS ADELEKE AND COLLINS\n");
 	return (0);
 }
+

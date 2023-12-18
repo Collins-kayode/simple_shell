@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #include  <stdio.h>
+=======
+>>>>>>> 22ff61e5abc00727327f2d503e5582c1c80564e0
 #include <unistd.h>
+#include <stdio.h>
 
 /**
  * main - PPID
